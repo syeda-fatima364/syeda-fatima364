@@ -30,6 +30,7 @@
 
 ### 🧾 Smart Billing System for Grocery Store
 A billing and inventory management system designed for small grocery stores to streamline sales and track products efficiently.
+https://github.com/syeda-fatima364/smartmart-billing-system
 
 ### 🎮 Tic Tac Toe Game
 A simple interactive Tic Tac Toe game developed using programming logic and basic algorithms.
