@@ -36,16 +36,6 @@ A simple interactive Tic Tac Toe game developed using programming logic and basi
 
 ---
 
-## 📊 GitHub Stats
-
-![Fatima's GitHub stats](https://github-readme-stats.vercel.app/api?username=syeda-fatima364&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=syeda-fatima364&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=syeda-fatima364&theme=tokyonight)
-
----
-
 ## 🎯 Current Focus
 - Developing **FinTech related projects**
 - Improving **programming and data analysis skills**
