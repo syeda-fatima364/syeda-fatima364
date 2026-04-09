@@ -1,4 +1,9 @@
-## Hi there 👋
+# Hi there 👋 I'm Syeda Fatima
+
+🎓 FinTech Student at FAST NUCES Islamabad  
+📊 Pursuing Chartered Accountancy (CAF – ICAP)  
+💡 Interested in Blockchain, Data Analytics & Financial Systems  
+✍️ Aspiring intellectual writer and poet
 
 <!--
 **syeda-fatima364/syeda-fatima364** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
