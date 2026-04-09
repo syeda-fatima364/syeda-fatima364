@@ -34,6 +34,7 @@ https://github.com/syeda-fatima364/smartmart-billing-system
 
 ### 🎮 Tic Tac Toe Game
 A simple interactive Tic Tac Toe game developed using programming logic and basic algorithms.
+https://github.com/syeda-fatima364/tic-tac-toe-game
 
 ---
 
