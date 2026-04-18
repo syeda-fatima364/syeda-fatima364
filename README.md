@@ -33,13 +33,14 @@ A billing and inventory management system designed for small grocery stores to s
 https://github.com/syeda-fatima364/smartmart-billing-system
 
 ### 🎮 Tic Tac Toe Game
-A simple interactive Tic Tac Toe game developed using programming logic and basic algorithms.
-https://github.com/syeda-fatima364/tic-tac-toe-game
+A simple interactive Tic Tac Toe game developed using programming logic and basic algorithms.  
+🔗 https://github.com/syeda-fatima364/tic-tac-toe-game  
+
+---
 
 ### 💼 TechNova Solutions – Salary Management System & Landing Page
-This program automates the salary calculation process for TechNova Solutions, replacing manual spreadsheet-based methods. It takes employee data as input, performs salary computations, and generates detailed reports.
-https://github.com/syeda-fatima364/technova-solutions
----
+This program automates the salary calculation process for TechNova Solutions, replacing manual spreadsheet-based methods. It takes employee data as input, performs salary computations, and generates detailed reports.  
+🔗 https://github.com/syeda-fatima364/technova-solutions
 
 ## 🎯 Current Focus
 - Developing **FinTech related projects**
