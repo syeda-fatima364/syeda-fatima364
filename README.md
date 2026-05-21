@@ -39,10 +39,12 @@ A simple interactive Tic Tac Toe game developed using programming logic and basi
 ---
 
 ### 💼 TechNova Solutions – Salary Management System & Landing Page
+
 This program automates the salary calculation process for TechNova Solutions, replacing manual spreadsheet-based methods. It takes employee data as input, performs salary computations, and generates detailed reports.  
 🔗 https://github.com/syeda-fatima364/technova-solutions
 
-###🏨 GRAND VISTA HOTEL MANAGEMENT SYSTEM + SNAKE GAME 🎮
+###**🏨 GRAND VISTA HOTEL MANAGEMENT SYSTEM + SNAKE GAME 🎮**
+
 A console-based C++ project that combines a fully functional Hotel Management System with an integrated Snake Game for an interactive and engaging user experience.
 🔗 https://github.com/syeda-fatima364/-GRAND-VISTA-HOTEL-MANAGEMENT-SYSTEM-SNAKE-GAME-
 
