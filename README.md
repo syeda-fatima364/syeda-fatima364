@@ -48,7 +48,7 @@ This program automates the salary calculation process for TechNova Solutions, re
 A console-based C++ project that combines a fully functional Hotel Management System with an integrated Snake Game for an interactive and engaging user experience.
 🔗 https://github.com/syeda-fatima364/-GRAND-VISTA-HOTEL-MANAGEMENT-SYSTEM-SNAKE-GAME-
 
-💳** PaySphere Banking Management System 💻**
+**💳 PaySphere Banking Management System 💻**
 
 A console-based C++ project that simulates core banking operations, including account management, deposits, withdrawals, fund transfers, credit facilities, rewards, cashback, and transaction tracking. The project demonstrates key Object-Oriented Programming concepts such as inheritance, polymorphism, encapsulation, and modular system design.
 
